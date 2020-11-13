@@ -1,0 +1,3 @@
+# MachineLearing-practice
+这是一个机器学习入门的代码库,主要部分实现了机器学习算法和sklearn中实现作用
+这里所有的代码基于python实现,主要工具为jupyter notbooke.
